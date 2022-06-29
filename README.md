@@ -1,3 +1,3 @@
-<center># BMI Calculator</center>
+# BMI Calculator
 
 This is a simple BMI calculator with a nice looking UI.s
