@@ -1,3 +1,3 @@
 # BMI Calculator
 
-This is a simple BMI calculator with a nice looking UI.s
+This is a simple BMI calculator with a nice looking UI
